@@ -1,4 +1,4 @@
-module github.com/marianzaki/microservice-archticture-class/product-catalog
+module product-catalog-solid
 
 go 1.22.5
 
