@@ -1,7 +1,7 @@
 package main
 
 import (
-	"product-catalog-solid/handler"
+	"product-catalog-solid/product-catalog-solid/handler"
 
 	"github.com/gin-gonic/gin"
 )

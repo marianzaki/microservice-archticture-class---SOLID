@@ -2,7 +2,7 @@ package service
 
 import (
 	"errors"
-	"product-catalog-solid/data"
+	"product-catalog-solid/product-catalog-solid/data"
 )
 
 // GetBooks returns all books.

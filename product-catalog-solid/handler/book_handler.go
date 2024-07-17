@@ -3,8 +3,8 @@ package handler
 import (
 	"net/http"
 
-	"product-catalog-solid/data"
-	"product-catalog-solid/service"
+	"product-catalog-solid/product-catalog-solid/data"
+	"product-catalog-solid/product-catalog-solid/service"
 
 	"github.com/gin-gonic/gin"
 )
